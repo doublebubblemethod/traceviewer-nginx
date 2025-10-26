@@ -1,0 +1,1 @@
+docker run -it --rm npm-dirs sh -c "sleep infinity"
